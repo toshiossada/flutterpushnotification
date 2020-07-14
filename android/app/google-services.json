@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884787504839",
+    "firebase_url": "https://pushnorification-b825b.firebaseio.com",
+    "project_id": "pushnorification-b825b",
+    "storage_bucket": "pushnorification-b825b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884787504839:android:37b26c7bbdbac853b680e2",
+        "android_client_info": {
+          "package_name": "br.dev.toshi.push_notification_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884787504839-bugmjveginuaa02jshv87hooiskb7o47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.dev.toshi.push_notification_chat",
+            "certificate_hash": "a1c93d84ab1e0a5b586bbf08fd42d8d1ecb5f14a"
+          }
+        },
+        {
+          "client_id": "884787504839-td83gl85ackqrb5fuv6cvlq78qeekjs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHUX9NBKxyr6LBj_zhEaaLWqGAnKrI0mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884787504839-td83gl85ackqrb5fuv6cvlq78qeekjs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
